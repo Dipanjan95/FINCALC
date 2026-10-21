@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Superpowers plan workspaces (scratch)
+.superpowers/
+
+# OS
+Thumbs.db
+Desktop.ini

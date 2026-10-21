@@ -1,0 +1,5 @@
+[submodule "fincalc"]
+	path = fincalc
+	# Local path to the embedded repo (no remote exists yet).
+	# When fincalc is published, replace this with its git URL.
+	url = fincalc
